@@ -1,5 +1,5 @@
-FROM hjacobs/kube-ops-view:0.7.1
-MAINTAINER Henning Jacobs <henning@jacobs1.de>
+FROM gites/kube-ops-view:0.7.1.5
+MAINTAINER Tomasz Pawelczak <tomasz@pawelczak.eu>
 
 EXPOSE 8080
 
